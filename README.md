@@ -23,7 +23,8 @@ Array Intersection
 Generics in TypeScriptI wrote a detailed blog explaining:What are Generics and why they matter
 Generic Functions & Generic Classes
 Constraints (extends)
-Real-world use cases
+Real-world use cases and 
+The four pillars of OOP are not just theoretical concepts  they are practical tools that help manage complexity in large TypeScript applications. 
 
 
 
