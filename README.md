@@ -1,15 +1,31 @@
-# TypeScript Notes (Jekyll)
+# TypeScript Practice & Learning
 
-This repository is a minimal Jekyll site converted from an existing markdown file (`blog-3.md`). To publish on GitHub Pages:
+A personal repository to practice TypeScript fundamentals through hands-on problems and document my learning journey.
 
-1. Commit and push this repository to GitHub (e.g., `main` branch).
-2. In the repository Settings → Pages, set source to `main` branch and `/ (root)`.
-3. GitHub will build the site with Jekyll and deploy it.
+## 📌 About This Repository
 
-To preview locally (optional): install Ruby, Bundler, then run:
+This repo contains:
+- Solutions to **TypeScript fundamental problems** (`solutions.ts`)
+- A detailed blog post on **Generics in TypeScript**
 
-```bash
-gem install bundler
-bundle install
-bundle exec jekyll serve
-```
+It's built to strengthen my understanding of TypeScript concepts like types, interfaces, classes, generics, type guards, and more.
+Solutions OverviewThe solutions.ts file includes clean implementations for the following problems:Filter Even Numbers from an array
+Reverse a String
+Type Guards with Union Types
+Generic Function with key constraints
+Interface and object manipulation
+Class Inheritance (Person → Student)
+Array Intersection
+
+
+##Blog Post
+
+Generics in TypeScriptI wrote a detailed blog explaining:What are Generics and why they matter
+Generic Functions & Generic Classes
+Constraints (extends)
+Real-world use cases
+
+
+
+
+
